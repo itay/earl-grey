@@ -1,9 +1,11 @@
 {
     "name" : "earl-grey",
-    "version" : "0.0.0",
+    "version" : "0.0.1",
     "description" : "animated ansi earl grey tea",
     "main" : "index.js",
-    "bin" : {},
+    "bin" : {
+      "earl-grey" : "bin/cmd.js"
+    },
     "directories" : {
         "example" : "example",
         "test" : "test"

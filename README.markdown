@@ -25,10 +25,24 @@ Return a readable animated hot ansi tea stream.
 
 Return a readable cold ansi tea stream.
 
+# command-line usage
+
+```
+usage: earl-grey {hot|cold}
+```
+
 # install
+
+To get the library, with [npm](http://npmjs.org) do:
 
 ```
 npm install earl-grey
+```
+
+and to get the command:
+
+```
+npm install -g earl-grey
 ```
 
 # license
